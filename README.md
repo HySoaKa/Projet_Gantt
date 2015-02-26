@@ -1,2 +1,2 @@
 # Projet_Gantt
-Répoirtoire racine du projet INFO2
+Répertoire racine du projet INFO2
